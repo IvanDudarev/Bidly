@@ -1,0 +1,123 @@
+{
+  "name": {
+    "common": "Russia",
+    "official": "Russian Federation",
+    "native": {
+      "rus": {
+        "official": "Российская Федерация",
+        "common": "Россия"
+      }
+    }
+  },
+  "tld": [".ru", ".su", ".рф"],
+  "cca2": "RU",
+  "ccn3": "643",
+  "cca3": "RUS",
+  "cioc": "RUS",
+  "independent": true,
+  "currencies": {
+    "RUB": {
+      "name": "Russian ruble",
+      "symbol": "₽"
+    }
+  },
+  "idd": {
+    "root": "+7",
+    "suffixes": ["3", "4", "5", "8", "9"]
+  },
+  "capital": ["Moscow"],
+  "altSpellings": ["RU", "Russian Federation", "Российская Федерация"],
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "rus": "Russian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Rusiya Federasiyası",
+      "common": "Rusiya"
+    },
+    "bel": {
+      "official": "Расійская Федэрацыя",
+      "common": "Расія"
+    },
+    "eng": {
+      "official": "Russian Federation",
+      "common": "Russian"
+    },
+    "hye": {
+      "official": "Ռուսաստանի Դաշնություն",
+      "common": "Ռուսաստան"
+    },
+    "hin": {
+      "official": "रूसी संघ",
+      "common": "रूस"
+    },
+    "ind": {
+      "official": "Republik Rusia",
+      "common": "Rusia"
+    },
+    "kat": {
+      "official": "რუსეთის ფედერაცია",
+      "common": "რუსეთი"
+    },
+    "kaz": {
+      "official": "Ресей Федерациясы",
+      "common": "Ресей"
+    },
+    "kir": {
+      "official": "Орусия Федерациясы",
+      "common": "Орусия"
+    },
+    "msa": {
+      "official": "Republik Rusia",
+      "common": "Rusia"
+    },
+    "por": {
+      "official": "República da Rússia",
+      "common": "Rússia"
+    },
+    "rus": {
+      "official": "Российская Федерация",
+      "common": "Россия"
+    },
+    "spa": {
+      "official": "República de Rusia",
+      "common": "Rusia"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Русия",
+      "common": "Русия"
+    },
+    "uzb": {
+      "official": "Rossiya Respublikasi",
+      "common": "Rossiya"
+    },
+    "ukr": {
+      "official": "Російська Федерація",
+      "common": "Росія"
+    }
+  },
+  "latlng": [60, 100],
+  "landlocked": false,
+  "borders": [
+    "AZE",
+    "BLR",
+    "CHN",
+    "EST",
+    "FIN",
+    "GEO",
+    "KAZ",
+    "PRK",
+    "LVA",
+    "LTU",
+    "MNG",
+    "NOR",
+    "POL",
+    "UKR"
+  ],
+  "area": 17098242,
+  "population": 144315790,
+  "flag": "🇷🇺",
+  "callingCodes": ["+73", "+74", "+75", "+78", "+79"]
+}

@@ -1,0 +1,124 @@
+{
+  "name": {
+    "common": "India",
+    "official": "Republic of India",
+    "native": {
+      "eng": {
+        "official": "Republic of India",
+        "common": "India"
+      },
+      "hin": {
+        "official": "भारत गणराज्य",
+        "common": "भारत"
+      },
+      "tam": {
+        "official": "இந்தியக் குடியரசு",
+        "common": "இந்தியா"
+      }
+    }
+  },
+  "tld": [".in"],
+  "cca2": "IN",
+  "ccn3": "356",
+  "cca3": "IND",
+  "cioc": "IND",
+  "independent": true,
+  "currencies": {
+    "INR": {
+      "name": "Indian rupee",
+      "symbol": "₹"
+    }
+  },
+  "idd": {
+    "root": "+9",
+    "suffixes": ["1"]
+  },
+  "capital": ["New Delhi"],
+  "altSpellings": [
+    "IN",
+    "Bhārat",
+    "Republic of India",
+    "Bharat Ganrajya",
+    "இந்தியா"
+  ],
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "eng": "English",
+    "hin": "Hindi",
+    "tam": "Tamil"
+  },
+  "translations": {
+    "aze": {
+      "official": "Hindistan Respublikası",
+      "common": "Hindistan"
+    },
+    "bel": {
+      "official": "Рэспубліка Індыя",
+      "common": "Індыя"
+    },
+    "eng": {
+      "official": "Republic of India",
+      "common": "India"
+    },
+    "hye": {
+      "official": "Հնդկաստանի Հանրապետություն",
+      "common": "Հնդկաստան"
+    },
+    "hin": {
+      "official": "भारत गणराज्य",
+      "common": "भारत"
+    },
+    "ind": {
+      "official": "Republik India",
+      "common": "India"
+    },
+    "kat": {
+      "official": "ინდოეთის რესპუბლიკა",
+      "common": "ინდოეთი"
+    },
+    "kaz": {
+      "official": "Үндістан Республикасы",
+      "common": "Үндістан"
+    },
+    "kir": {
+      "official": "Индия Республикасы",
+      "common": "Индия"
+    },
+    "msa": {
+      "official": "Republik India",
+      "common": "India"
+    },
+    "por": {
+      "official": "República da Índia",
+      "common": "Índia"
+    },
+    "rus": {
+      "official": "Республика Индия",
+      "common": "Индия"
+    },
+    "spa": {
+      "official": "República de la India",
+      "common": "India"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Ҳиндустон",
+      "common": "Ҳиндустон"
+    },
+    "uzb": {
+      "official": "Hindiston Respublikasi",
+      "common": "Hindiston"
+    },
+    "ukr": {
+      "official": "Республіка Індія",
+      "common": "Індія"
+    }
+  },
+  "latlng": [20, 77],
+  "landlocked": false,
+  "borders": ["BGD", "BTN", "MMR", "CHN", "NPL", "PAK"],
+  "area": 3287590,
+  "population": 284854019,
+  "flag": "🇮🇳",
+  "callingCodes": ["+91"]
+}

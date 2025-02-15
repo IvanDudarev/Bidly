@@ -1,0 +1,68 @@
+{
+  "languages": [
+    {
+      "id": "aze",
+      "name": "Azərbaycan"
+    },
+    {
+      "id": "bel",
+      "name": "Беларуская"
+    },
+    {
+      "id": "eng",
+      "name": "English"
+    },
+    {
+      "id": "hin",
+      "name": "हिन्दी"
+    },
+    {
+      "id": "hye",
+      "name": "հայերեն"
+    },
+    {
+      "id": "ind",
+      "name": "Indonesia"
+    },
+    {
+      "id": "kat",
+      "name": "ქართული"
+    },
+    {
+      "id": "kaz",
+      "name": "Қазақ"
+    },
+    {
+      "id": "kir",
+      "name": "Кыргыз"
+    },
+    {
+      "id": "msa",
+      "name": "Melayu"
+    },
+    {
+      "id": "por",
+      "name": "Português"
+    },
+    {
+      "id": "rus",
+      "name": "Русский"
+    },
+    {
+      "id": "spa",
+      "name": "Español"
+    },
+    {
+      "id": "tgk",
+      "name": "Тоҷикӣ"
+    },
+    {
+      "id": "ukr",
+      "name": "Українська"
+    },
+    {
+      "id": "uzb",
+      "name": "Oʻzbekcha"
+    }
+  ]
+}

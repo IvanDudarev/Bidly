@@ -1,0 +1,113 @@
+{
+  "name": {
+    "common": "Malaysia",
+    "official": "Malaysia",
+    "native": {
+      "eng": {
+        "official": "Malaysia",
+        "common": "Malaysia"
+      },
+      "msa": {
+        "official": "مليسيا",
+        "common": "مليسيا"
+      }
+    }
+  },
+  "tld": [".my"],
+  "cca2": "MY",
+  "ccn3": "458",
+  "cca3": "MYS",
+  "cioc": "MAS",
+  "independent": true,
+  "currencies": {
+    "MYR": {
+      "name": "Malaysian ringgit",
+      "symbol": "RM"
+    }
+  },
+  "idd": {
+    "root": "+6",
+    "suffixes": ["0"]
+  },
+  "capital": ["Kuala Lumpur"],
+  "altSpellings": ["MY"],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "eng": "English",
+    "msa": "Malay"
+  },
+  "translations": {
+    "aze": {
+      "official": "Malayziya",
+      "common": "Malayziya"
+    },
+    "bel": {
+      "official": "Малайзія",
+      "common": "Малайзія"
+    },
+    "eng": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "hye": {
+      "official": "Մալայզիա",
+      "common": "Մալայզիա"
+    },
+    "hin": {
+      "official": "मलेशिया",
+      "common": "मलेशिया"
+    },
+    "ind": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "kat": {
+      "official": "მალაიზია",
+      "common": "მალაიზია"
+    },
+    "kaz": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "kir": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "msa": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "por": {
+      "official": "Malásia",
+      "common": "Malásia"
+    },
+    "rus": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "spa": {
+      "official": "Malasia",
+      "common": "Malasia"
+    },
+    "tgk": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "uzb": {
+      "official": "Malayziya",
+      "common": "Malayziya"
+    },
+    "ukr": {
+      "official": "Малайзія",
+      "common": "Малайзія"
+    }
+  },
+  "latlng": [2.5, 112.5],
+  "landlocked": false,
+  "borders": ["BRN", "IDN", "THA"],
+  "area": 330803,
+  "population": 35814491,
+  "flag": "🇲🇾",
+  "callingCodes": ["+60"]
+}

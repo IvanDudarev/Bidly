@@ -1,0 +1,118 @@
+{
+  "name": {
+    "common": "Uzbekistan",
+    "official": "Republic of Uzbekistan",
+    "native": {
+      "rus": {
+        "official": "Республика Узбекистан",
+        "common": "Узбекистан"
+      },
+      "uzb": {
+        "official": "O'zbekiston Respublikasi",
+        "common": "O‘zbekiston"
+      }
+    }
+  },
+  "tld": [".uz"],
+  "cca2": "UZ",
+  "ccn3": "860",
+  "cca3": "UZB",
+  "cioc": "UZB",
+  "independent": true,
+  "currencies": {
+    "UZS": {
+      "name": "Uzbekistani soʻm",
+      "symbol": "so'm"
+    }
+  },
+  "idd": {
+    "root": "+9",
+    "suffixes": ["98"]
+  },
+  "capital": ["Tashkent"],
+  "altSpellings": [
+    "UZ",
+    "Republic of Uzbekistan",
+    "O‘zbekiston Respublikasi",
+    "Ўзбекистон Республикаси"
+  ],
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "uzb": "Uzbek"
+  },
+  "translations": {
+    "aze": {
+      "official": "Özbəkistan Respublikası",
+      "common": "Özbəkistan"
+    },
+    "bel": {
+      "official": "Рэспубліка Узбекістан",
+      "common": "Узбекістан"
+    },
+    "eng": {
+      "official": "Republic of Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "hye": {
+      "official": "Ուզբեկստանի Հանրապետություն",
+      "common": "Ուզբեկստան"
+    },
+    "hin": {
+      "official": "उज़्बेकिस्तान गणराज्य",
+      "common": "उज़्बेकिस्तान"
+    },
+    "ind": {
+      "official": "Republik Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "kat": {
+      "official": "უზბეკეთის რესპუბლიკა",
+      "common": "უზბეკეთი"
+    },
+    "kaz": {
+      "official": "Өзбекстан Республикасы",
+      "common": "Өзбекстан"
+    },
+    "kir": {
+      "official": "Өзбекстан Республикасы",
+      "common": "Өзбекстан"
+    },
+    "msa": {
+      "official": "Republik Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "por": {
+      "official": "República do Uzbequistão",
+      "common": "Uzbequistão"
+    },
+    "rus": {
+      "official": "Республика Узбекистан",
+      "common": "Узбекистан"
+    },
+    "spa": {
+      "official": "República de Uzbekistán",
+      "common": "Uzbekistán"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Ӯзбекистон",
+      "common": "Ӯзбекистон"
+    },
+    "uzb": {
+      "official": "Oʻzbekiston Respublikasi",
+      "common": "Oʻzbekiston"
+    },
+    "ukr": {
+      "official": "Республіка Узбекистан",
+      "common": "Узбекистан"
+    }
+  },
+  "latlng": [41, 64],
+  "landlocked": true,
+  "borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
+  "area": 447400,
+  "population": 36783883,
+  "flag": "🇺🇿",
+  "callingCodes": ["+998"]
+}

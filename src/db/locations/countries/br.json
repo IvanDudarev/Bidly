@@ -1,0 +1,124 @@
+{
+  "name": {
+    "common": "Brazil",
+    "official": "Federative Republic of Brazil",
+    "native": {
+      "por": {
+        "official": "República Federativa do Brasil",
+        "common": "Brasil"
+      }
+    }
+  },
+  "tld": [".br"],
+  "cca2": "BR",
+  "ccn3": "076",
+  "cca3": "BRA",
+  "cioc": "BRA",
+  "independent": true,
+  "currencies": {
+    "BRL": {
+      "name": "Brazilian real",
+      "symbol": "R$"
+    }
+  },
+  "idd": {
+    "root": "+5",
+    "suffixes": ["5"]
+  },
+  "capital": ["Brasília"],
+  "altSpellings": [
+    "BR",
+    "Brasil",
+    "Federative Republic of Brazil",
+    "República Federativa do Brasil"
+  ],
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "translations": {
+    "aze": {
+      "official": "Braziliya Federativ Respublikası",
+      "common": "Braziliya"
+    },
+    "bel": {
+      "official": "Федэратыўная Рэспубліка Бразілія",
+      "common": "Бразілія"
+    },
+    "eng": {
+      "official": "Federative Republic of Brazil",
+      "common": "Brazil"
+    },
+    "hye": {
+      "official": "Բրազիլիայի Դաշնային Հանրապետություն",
+      "common": "Բրազիլիա"
+    },
+    "hin": {
+      "official": "ब्राज़ील का संघीय गणराज्य",
+      "common": "ब्राज़ील"
+    },
+    "ind": {
+      "official": "Republik Federasi Brasil",
+      "common": "Brasil"
+    },
+    "kat": {
+      "official": "ბრაზილიის ფედერაციული რესპუბლიკა",
+      "common": "ბრაზილია"
+    },
+    "kaz": {
+      "official": "Бразилия Федеративтік Республикасы",
+      "common": "Бразилия"
+    },
+    "kir": {
+      "official": "Бразилия Федеративдик Республикасы",
+      "common": "Бразилия"
+    },
+    "msa": {
+      "official": "Republik Persekutuan Brazil",
+      "common": "Brazil"
+    },
+    "por": {
+      "official": "República Federativa do Brasil",
+      "common": "Brasil"
+    },
+    "rus": {
+      "official": "Федеративная Республика Бразилия",
+      "common": "Бразилия"
+    },
+    "spa": {
+      "official": "República Federativa de Brasil",
+      "common": "Brasil"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Федеративии Бразилия",
+      "common": "Бразилия"
+    },
+    "uzb": {
+      "official": "Braziliya Federativ Respublikasi",
+      "common": "Braziliya"
+    },
+    "ukr": {
+      "official": "Федеративна Республіка Бразилія",
+      "common": "Бразилія"
+    }
+  },
+  "latlng": [-10, -55],
+  "landlocked": false,
+  "borders": [
+    "ARG",
+    "BOL",
+    "COL",
+    "GUF",
+    "GUY",
+    "PRY",
+    "PER",
+    "SUR",
+    "URY",
+    "VEN"
+  ],
+  "area": 8515767,
+  "population": 212496777,
+  "flag": "🇧🇷",
+  "callingCodes": ["+55"]
+}

@@ -1,0 +1,108 @@
+{
+  "name": {
+    "common": "Indonesia",
+    "official": "Republic of Indonesia",
+    "native": {
+      "ind": {
+        "official": "Republik Indonesia",
+        "common": "Indonesia"
+      }
+    }
+  },
+  "tld": [".id"],
+  "cca2": "ID",
+  "ccn3": "360",
+  "cca3": "IDN",
+  "cioc": "INA",
+  "independent": true,
+  "currencies": {
+    "IDR": {
+      "name": "Indonesian rupiah",
+      "symbol": "Rp"
+    }
+  },
+  "idd": {
+    "root": "+6",
+    "suffixes": ["2"]
+  },
+  "capital": ["Jakarta"],
+  "altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "ind": "Indonesian"
+  },
+  "translations": {
+    "aze": {
+      "official": "İndoneziya Respublikası",
+      "common": "İndoneziya"
+    },
+    "bel": {
+      "official": "Рэспубліка Інданезія",
+      "common": "Інданезія"
+    },
+    "eng": {
+      "official": "Republic of Indonesia",
+      "common": "Indonesia"
+    },
+    "hye": {
+      "official": "Ինդոնեզիայի Հանրապետություն",
+      "common": "Ինդոնեզիա"
+    },
+    "hin": {
+      "official": "इंडोनेशिया गणराज्य",
+      "common": "इंडोनेशिया"
+    },
+    "ind": {
+      "official": "Republik Indonesia",
+      "common": "Indonesia"
+    },
+    "kat": {
+      "official": "ინდონეზიის რესპუბლიკა",
+      "common": "ინდონეზია"
+    },
+    "kaz": {
+      "official": "Индонезия Республикасы",
+      "common": "Индонезия"
+    },
+    "kir": {
+      "official": "Индонезия Республикасы",
+      "common": "Индонезия"
+    },
+    "msa": {
+      "official": "Republik Indonesia",
+      "common": "Indonesia"
+    },
+    "por": {
+      "official": "República da Indonésia",
+      "common": "Indonésia"
+    },
+    "rus": {
+      "official": "Республика Индонезия",
+      "common": "Индонезия"
+    },
+    "spa": {
+      "official": "República de Indonesia",
+      "common": "Indonesia"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Индонезия",
+      "common": "Индонезия"
+    },
+    "uzb": {
+      "official": "Indoneziya Respublikasi",
+      "common": "Indoneziya"
+    },
+    "ukr": {
+      "official": "Республіка Індонезія",
+      "common": "Індонезія"
+    }
+  },
+  "latlng": [-5, 120],
+  "landlocked": false,
+  "borders": ["TLS", "MYS", "PNG"],
+  "area": 1904569,
+  "population": 1458841454,
+  "flag": "🇮🇩",
+  "callingCodes": ["+62"]
+}

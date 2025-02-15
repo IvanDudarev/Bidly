@@ -1,0 +1,108 @@
+{
+  "name": {
+    "common": "Ukraine",
+    "official": "Ukraine",
+    "native": {
+      "ukr": {
+        "official": "Україна",
+        "common": "Україна"
+      }
+    }
+  },
+  "tld": [".ua", ".укр"],
+  "cca2": "UA",
+  "ccn3": "804",
+  "cca3": "UKR",
+  "cioc": "UKR",
+  "independent": true,
+  "currencies": {
+    "UAH": {
+      "name": "Ukrainian hryvnia",
+      "symbol": "₴"
+    }
+  },
+  "idd": {
+    "root": "+3",
+    "suffixes": ["80"]
+  },
+  "capital": ["Kyiv"],
+  "altSpellings": ["UA", "Ukrayina"],
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "ukr": "Ukrainian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Ukrayna",
+      "common": "Ukrayna"
+    },
+    "bel": {
+      "official": "Украіна",
+      "common": "Украіна"
+    },
+    "eng": {
+      "official": "Ukraine",
+      "common": "Ukraine"
+    },
+    "hye": {
+      "official": "Ուկրաինա",
+      "common": "Ուկրաինա"
+    },
+    "hin": {
+      "official": "यूक्रेन",
+      "common": "यूक्रेन"
+    },
+    "ind": {
+      "official": "Ukraina",
+      "common": "Ukraina"
+    },
+    "kat": {
+      "official": "უკრაინა",
+      "common": "უკრაინა"
+    },
+    "kaz": {
+      "official": "Украина",
+      "common": "Украина"
+    },
+    "kir": {
+      "official": "Украина",
+      "common": "Украина"
+    },
+    "msa": {
+      "official": "Ukraine",
+      "common": "Ukraine"
+    },
+    "por": {
+      "official": "Ucrânia",
+      "common": "Ucrânia"
+    },
+    "rus": {
+      "official": "Украина",
+      "common": "Украина"
+    },
+    "spa": {
+      "official": "Ucrania",
+      "common": "Ucrania"
+    },
+    "tgk": {
+      "official": "Украина",
+      "common": "Украина"
+    },
+    "uzb": {
+      "official": "Ukraina",
+      "common": "Ukraina"
+    },
+    "ukr": {
+      "official": "Україна",
+      "common": "Україна"
+    }
+  },
+  "latlng": [49, 32],
+  "landlocked": false,
+  "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
+  "area": 603500,
+  "population": 38542410,
+  "flag": "🇺🇦",
+  "callingCodes": ["+380"]
+}

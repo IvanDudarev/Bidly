@@ -1,0 +1,122 @@
+{
+  "name": {
+    "common": "Kazakhstan",
+    "official": "Republic of Kazakhstan",
+    "native": {
+      "kaz": {
+        "official": "Қазақстан Республикасы",
+        "common": "Қазақстан"
+      },
+      "rus": {
+        "official": "Республика Казахстан",
+        "common": "Казахстан"
+      }
+    }
+  },
+  "tld": [".kz", ".қаз"],
+  "cca2": "KZ",
+  "ccn3": "398",
+  "cca3": "KAZ",
+  "cioc": "KAZ",
+  "independent": true,
+  "currencies": {
+    "KZT": {
+      "name": "Kazakhstani tenge",
+      "symbol": "₸"
+    }
+  },
+  "idd": {
+    "root": "+7",
+    "suffixes": ["6", "7"]
+  },
+  "capital": ["Astana"],
+  "altSpellings": [
+    "KZ",
+    "Qazaqstan",
+    "Казахстан",
+    "Republic of Kazakhstan",
+    "Қазақстан Республикасы",
+    "Qazaqstan Respublïkası",
+    "Республика Казахстан",
+    "Respublika Kazakhstan"
+  ],
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "kaz": "Kazakh",
+    "rus": "Russian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Qazaxıstan Respublikası",
+      "common": "Qazaxıstan"
+    },
+    "bel": {
+      "official": "Рэспубліка Казахстан",
+      "common": "Казахстан"
+    },
+    "eng": {
+      "official": "Republic of Kazakhstan",
+      "common": "Kazakhstan"
+    },
+    "hye": {
+      "official": "Ղազախստանի Հանրապետություն",
+      "common": "Ղազախստան"
+    },
+    "hin": {
+      "official": "कजाखस्तान गणराज्य",
+      "common": "कजाखस्तान"
+    },
+    "ind": {
+      "official": "Republik Kazakhstan",
+      "common": "Kazakhstan"
+    },
+    "kat": {
+      "official": "ყაზახეთის რესპუბლიკა",
+      "common": "ყაზახეთი"
+    },
+    "kaz": {
+      "official": "Қазақстан Республикасы",
+      "common": "Қазақстан"
+    },
+    "kir": {
+      "official": "Казакстан Республикасы",
+      "common": "Казакстан"
+    },
+    "msa": {
+      "official": "Republik Kazakhstan",
+      "common": "Kazakhstan"
+    },
+    "por": {
+      "official": "República do Cazaquistão",
+      "common": "Cazaquistão"
+    },
+    "rus": {
+      "official": "Республика Казахстан",
+      "common": "Казахстан"
+    },
+    "spa": {
+      "official": "República de Kazajistán",
+      "common": "Kazajistán"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Қазоқистон",
+      "common": "Қазоқистон"
+    },
+    "uzb": {
+      "official": "Qozogʻiston Respublikasi",
+      "common": "Qozogʻiston"
+    },
+    "ukr": {
+      "official": "Республіка Казахстан",
+      "common": "Казахстан"
+    }
+  },
+  "latlng": [48, 68],
+  "landlocked": true,
+  "borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
+  "area": 2724900,
+  "population": 20746048,
+  "flag": "🇰🇿",
+  "callingCodes": ["+76", "+77"]
+}

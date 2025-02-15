@@ -1,0 +1,113 @@
+{
+  "name": {
+    "common": "Mexico",
+    "official": "United Mexican States",
+    "native": {
+      "spa": {
+        "official": "Estados Unidos Mexicanos",
+        "common": "México"
+      }
+    }
+  },
+  "tld": [".mx"],
+  "cca2": "MX",
+  "ccn3": "484",
+  "cca3": "MEX",
+  "cioc": "MEX",
+  "independent": true,
+  "currencies": {
+    "MXN": {
+      "name": "Mexican peso",
+      "symbol": "$"
+    }
+  },
+  "idd": {
+    "root": "+5",
+    "suffixes": ["2"]
+  },
+  "capital": ["Mexico City"],
+  "altSpellings": [
+    "MX",
+    "Mexicanos",
+    "United Mexican States",
+    "Estados Unidos Mexicanos"
+  ],
+  "region": "Americas",
+  "subregion": "North America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "aze": {
+      "official": "Meksika Birləşmiş Ştatları",
+      "common": "Meksika"
+    },
+    "bel": {
+      "official": "Мексіканскія Злучаныя Штаты",
+      "common": "Мексіка"
+    },
+    "eng": {
+      "official": "United Mexican States",
+      "common": "Mexico"
+    },
+    "hye": {
+      "official": "Մեքսիկայի Միացյալ Նահանգներ",
+      "common": "Մեքսիկա"
+    },
+    "hin": {
+      "official": "मेक्सिको के संयुक्त राज्य",
+      "common": "मेक्सिको"
+    },
+    "ind": {
+      "official": "Republik Meksiko",
+      "common": "Meksiko"
+    },
+    "kat": {
+      "official": "მექსიკის შეერთებული შტატები",
+      "common": "მექსიკა"
+    },
+    "kaz": {
+      "official": "Мексика Құрама Штаттары",
+      "common": "Мексика"
+    },
+    "kir": {
+      "official": "Мексика Кошмо Штаттары",
+      "common": "Мексика"
+    },
+    "msa": {
+      "official": "Republik Mexico",
+      "common": "Mexico"
+    },
+    "por": {
+      "official": "República do México",
+      "common": "México"
+    },
+    "rus": {
+      "official": "Мексиканские Соединённые Штаты",
+      "common": "Мексика"
+    },
+    "spa": {
+      "official": "República de México",
+      "common": "México"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Мексика",
+      "common": "Мексика"
+    },
+    "uzb": {
+      "official": "Meksika Respublikasi",
+      "common": "Meksika"
+    },
+    "ukr": {
+      "official": "Республіка Мексика",
+      "common": "Мексика"
+    }
+  },
+  "latlng": [23, -102],
+  "landlocked": false,
+  "borders": ["BLZ", "GTM", "USA"],
+  "area": 1964375,
+  "population": 131527874,
+  "flag": "🇲🇽",
+  "callingCodes": ["+52"]
+}

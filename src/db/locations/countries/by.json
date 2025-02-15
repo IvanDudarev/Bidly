@@ -1,0 +1,119 @@
+{
+  "name": {
+    "common": "Belarus",
+    "official": "Republic of Belarus",
+    "native": {
+      "bel": {
+        "official": "Рэспубліка Беларусь",
+        "common": "Белару́сь"
+      },
+      "rus": {
+        "official": "Республика Беларусь",
+        "common": "Беларусь"
+      }
+    }
+  },
+  "tld": [".by"],
+  "cca2": "BY",
+  "ccn3": "112",
+  "cca3": "BLR",
+  "cioc": "BLR",
+  "independent": true,
+  "currencies": {
+    "BYN": {
+      "name": "Belarusian ruble",
+      "symbol": "Br"
+    }
+  },
+  "idd": {
+    "root": "+3",
+    "suffixes": ["75"]
+  },
+  "capital": ["Minsk"],
+  "altSpellings": [
+    "BY",
+    "Bielaruś",
+    "Republic of Belarus",
+    "Белоруссия",
+    "Республика Белоруссия"
+  ],
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "bel": "Belarusian",
+    "rus": "Russian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Belarus Respublikası",
+      "common": "Belarus"
+    },
+    "bel": {
+      "official": "Рэспубліка Беларусь",
+      "common": "Беларусь"
+    },
+    "eng": {
+      "official": "Republic of Belarus",
+      "common": "Belarus"
+    },
+    "hye": {
+      "official": "Բելառուսի Հանրապետություն",
+      "common": "Բելառուս"
+    },
+    "hin": {
+      "official": "बेलारूस गणराज्य",
+      "common": "बेलारूस"
+    },
+    "ind": {
+      "official": "Republik Belarus",
+      "common": "Belarus"
+    },
+    "kat": {
+      "official": "ბელარუსის რესპუბლიკა",
+      "common": "ბელარუსი"
+    },
+    "kaz": {
+      "official": "Беларусь Республикасы",
+      "common": "Беларусь"
+    },
+    "kir": {
+      "official": "Беларусь Республикасы",
+      "common": "Беларусь"
+    },
+    "msa": {
+      "official": "Republik Belarus",
+      "common": "Belarus"
+    },
+    "por": {
+      "official": "República da Bielorrússia",
+      "common": "Bielorrússia"
+    },
+    "rus": {
+      "official": "Республика Беларусь",
+      "common": "Беларусь"
+    },
+    "spa": {
+      "official": "República de Belarús",
+      "common": "Bielorrusia"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Беларус",
+      "common": "Беларус"
+    },
+    "uzb": {
+      "official": "Belarus Respublikasi",
+      "common": "Belarus"
+    },
+    "ukr": {
+      "official": "Республіка Білорусь",
+      "common": "Білорусь"
+    }
+  },
+  "latlng": [53, 28],
+  "landlocked": true,
+  "borders": ["LVA", "LTU", "POL", "RUS", "UKR"],
+  "area": 207600,
+  "population": 9020458,
+  "flag": "🇧🇾",
+  "callingCodes": ["+375"]
+}

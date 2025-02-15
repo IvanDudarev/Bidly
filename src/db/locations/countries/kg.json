@@ -1,0 +1,119 @@
+{
+  "name": {
+    "common": "Kyrgyzstan",
+    "official": "Kyrgyz Republic",
+    "native": {
+      "kir": {
+        "official": "Кыргыз Республикасы",
+        "common": "Кыргызстан"
+      },
+      "rus": {
+        "official": "Кыргызская Республика",
+        "common": "Киргизия"
+      }
+    }
+  },
+  "tld": [".kg"],
+  "cca2": "KG",
+  "ccn3": "417",
+  "cca3": "KGZ",
+  "cioc": "KGZ",
+  "independent": true,
+  "currencies": {
+    "KGS": {
+      "name": "Kyrgyzstani som",
+      "symbol": "с"
+    }
+  },
+  "idd": {
+    "root": "+9",
+    "suffixes": ["96"]
+  },
+  "capital": ["Bishkek"],
+  "altSpellings": [
+    "KG",
+    "Киргизия",
+    "Kyrgyz Republic",
+    "Кыргыз Республикасы",
+    "Kyrgyz Respublikasy"
+  ],
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "kir": "Kyrgyz",
+    "rus": "Russian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Qırğızıstan Respublikası",
+      "common": "Qırğızıstan"
+    },
+    "bel": {
+      "official": "Кыргызская Рэспубліка",
+      "common": "Кыргызстан"
+    },
+    "eng": {
+      "official": "Kyrgyz Republic",
+      "common": "Kyrgyzstan"
+    },
+    "hye": {
+      "official": "Ղրղզստանի Հանրապետություն",
+      "common": "Ղրղզստան"
+    },
+    "hin": {
+      "official": "किर्गिज़स्तान गणराज्य",
+      "common": "किर्गिज़स्तान"
+    },
+    "ind": {
+      "official": "Republik Kirgizstan",
+      "common": "Kirgizstan"
+    },
+    "kat": {
+      "official": "ყირგიზეთის რესპუბლიკა",
+      "common": "ყირგიზეთი"
+    },
+    "kaz": {
+      "official": "Қырғыз Республикасы",
+      "common": "Қырғызстан"
+    },
+    "kir": {
+      "official": "Кыргыз Республикасы",
+      "common": "Кыргызстан"
+    },
+    "msa": {
+      "official": "Republik Kyrgyzstan",
+      "common": "Kyrgyzstan"
+    },
+    "por": {
+      "official": "República do Quirguistão",
+      "common": "Quirguistão"
+    },
+    "rus": {
+      "official": "Кыргызская Республика",
+      "common": "Кыргызстан"
+    },
+    "spa": {
+      "official": "República de Kirguistán",
+      "common": "Kirguistán"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Қирғизистон",
+      "common": "Қирғизистон"
+    },
+    "uzb": {
+      "official": "Qirgʻiziston Respublikasi",
+      "common": "Qirgʻiziston"
+    },
+    "ukr": {
+      "official": "Киргизька Республіка",
+      "common": "Киргизстан"
+    }
+  },
+  "latlng": [41, 75],
+  "landlocked": true,
+  "borders": ["CHN", "KAZ", "TJK", "UZB"],
+  "area": 199951,
+  "population": 7252586,
+  "flag": "🇰🇬",
+  "callingCodes": ["+996"]
+}

@@ -1,0 +1,119 @@
+{
+  "name": {
+    "common": "Tajikistan",
+    "official": "Republic of Tajikistan",
+    "native": {
+      "rus": {
+        "official": "Республика Таджикистан",
+        "common": "Таджикистан"
+      },
+      "tgk": {
+        "official": "Ҷумҳурии Тоҷикистон",
+        "common": "Тоҷикистон"
+      }
+    }
+  },
+  "tld": [".tj"],
+  "cca2": "TJ",
+  "ccn3": "762",
+  "cca3": "TJK",
+  "cioc": "TJK",
+  "independent": true,
+  "currencies": {
+    "TJS": {
+      "name": "Tajikistani somoni",
+      "symbol": "ЅМ"
+    }
+  },
+  "idd": {
+    "root": "+9",
+    "suffixes": ["92"]
+  },
+  "capital": ["Dushanbe"],
+  "altSpellings": [
+    "TJ",
+    "Toçikiston",
+    "Republic of Tajikistan",
+    "Ҷумҳурии Тоҷикистон",
+    "Çumhuriyi Toçikiston"
+  ],
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "tgk": "Tajik"
+  },
+  "translations": {
+    "aze": {
+      "official": "Tacikistan Respublikası",
+      "common": "Tacikistan"
+    },
+    "bel": {
+      "official": "Рэспубліка Таджыкістан",
+      "common": "Таджыкістан"
+    },
+    "eng": {
+      "official": "Republic of Tajikistan",
+      "common": "Tajikistan"
+    },
+    "hye": {
+      "official": "Տաջիկստանի Հանրապետություն",
+      "common": "Տաջիկստան"
+    },
+    "hin": {
+      "official": "ताजिकिस्तान गणराज्य",
+      "common": "ताजिकिस्तान"
+    },
+    "ind": {
+      "official": "Republik Tajikistan",
+      "common": "Tajikistan"
+    },
+    "kat": {
+      "official": "ტაჯიკეთის რესპუბლიკა",
+      "common": "ტაჯიკეთი"
+    },
+    "kaz": {
+      "official": "Тәжікстан Республикасы",
+      "common": "Тәжікстан"
+    },
+    "kir": {
+      "official": "Тажикстан Республикасы",
+      "common": "Тажикстан"
+    },
+    "msa": {
+      "official": "Republik Tajikistan",
+      "common": "Tajikistan"
+    },
+    "por": {
+      "official": "República do Tajiquistão",
+      "common": "Tajiquistão"
+    },
+    "rus": {
+      "official": "Республика Таджикистан",
+      "common": "Таджикистан"
+    },
+    "spa": {
+      "official": "República de Tayikistán",
+      "common": "Tayikistán"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Тоҷикистон",
+      "common": "Тоҷикистон"
+    },
+    "uzb": {
+      "official": "Tojikiston Respublikasi",
+      "common": "Tojikiston"
+    },
+    "ukr": {
+      "official": "Республіка Таджикистан",
+      "common": "Таджикистан"
+    }
+  },
+  "latlng": [39, 71],
+  "landlocked": true,
+  "borders": ["AFG", "CHN", "KGZ", "UZB"],
+  "area": 143100,
+  "population": 10710426,
+  "flag": "🇹🇯",
+  "callingCodes": ["+992"]
+}

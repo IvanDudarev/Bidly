@@ -1,0 +1,108 @@
+{
+  "name": {
+    "common": "Georgia",
+    "official": "Georgia",
+    "native": {
+      "kat": {
+        "official": "საქართველო",
+        "common": "საქართველო"
+      }
+    }
+  },
+  "tld": [".ge"],
+  "cca2": "GE",
+  "ccn3": "268",
+  "cca3": "GEO",
+  "cioc": "GEO",
+  "independent": true,
+  "currencies": {
+    "GEL": {
+      "name": "lari",
+      "symbol": "₾"
+    }
+  },
+  "idd": {
+    "root": "+9",
+    "suffixes": ["95"]
+  },
+  "capital": ["Tbilisi"],
+  "altSpellings": ["GE", "Sakartvelo"],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "kat": "Georgian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Gürcüstan Respublikası",
+      "common": "Gürcüstan"
+    },
+    "bel": {
+      "official": "Рэспубліка Грузія",
+      "common": "Грузія"
+    },
+    "eng": {
+      "official": "Georgia",
+      "common": "Georgia"
+    },
+    "hye": {
+      "official": "Վրաստանի Հանրապետություն",
+      "common": "Վրաստան"
+    },
+    "hin": {
+      "official": "जॉर्जिया गणराज्य",
+      "common": "जॉर्जिया"
+    },
+    "ind": {
+      "official": "Republik Georgia",
+      "common": "Georgia"
+    },
+    "kat": {
+      "official": "საქართველოს რესპუბლიკა",
+      "common": "საქართველო"
+    },
+    "kaz": {
+      "official": "Грузия Республикасы",
+      "common": "Грузия"
+    },
+    "kir": {
+      "official": "Грузия Республикасы",
+      "common": "Грузия"
+    },
+    "msa": {
+      "official": "Republik Georgia",
+      "common": "Georgia"
+    },
+    "por": {
+      "official": "República da Geórgia",
+      "common": "Geórgia"
+    },
+    "rus": {
+      "official": "Республика Грузия",
+      "common": "Грузия"
+    },
+    "spa": {
+      "official": "República de Georgia",
+      "common": "Georgia"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Гурҷистон",
+      "common": "Гурҷистон"
+    },
+    "uzb": {
+      "official": "Gruziya Respublikasi",
+      "common": "Gruziya"
+    },
+    "ukr": {
+      "official": "Республіка Грузія",
+      "common": "Грузія"
+    }
+  },
+  "latlng": [42, 43.5],
+  "landlocked": false,
+  "borders": ["ARM", "AZE", "RUS", "TUR"],
+  "area": 69700,
+  "population": 3807058,
+  "flag": "🇬🇪",
+  "callingCodes": ["+995"]
+}

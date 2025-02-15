@@ -1,0 +1,113 @@
+{
+  "name": {
+    "common": "Azerbaijan",
+    "official": "Republic of Azerbaijan",
+    "native": {
+      "aze": {
+        "official": "Azərbaycan Respublikası",
+        "common": "Azərbaycan"
+      },
+      "rus": {
+        "official": "Азербайджанская Республика",
+        "common": "Азербайджан"
+      }
+    }
+  },
+  "tld": [".az"],
+  "cca2": "AZ",
+  "ccn3": "031",
+  "cca3": "AZE",
+  "cioc": "AZE",
+  "independent": true,
+  "currencies": {
+    "AZN": {
+      "name": "Azerbaijani manat",
+      "symbol": "₼"
+    }
+  },
+  "idd": {
+    "root": "+9",
+    "suffixes": ["94"]
+  },
+  "capital": ["Baku"],
+  "altSpellings": ["AZ", "Republic of Azerbaijan", "Azərbaycan Respublikası"],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "aze": "Azerbaijani",
+    "rus": "Russian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Azərbaycan Respublikası",
+      "common": "Azərbaycan"
+    },
+    "bel": {
+      "official": "Азербайджанская Рэспубліка",
+      "common": "Азербайджан"
+    },
+    "eng": {
+      "official": "Republic of Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "hye": {
+      "official": "Ադրբեջանի Հանրապետություն",
+      "common": "Ադրբեջան"
+    },
+    "hin": {
+      "official": "अज़रबैजान गणराज्य",
+      "common": "अज़रबैजान"
+    },
+    "ind": {
+      "official": "Republik Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "kat": {
+      "official": "აზერბაიჯანის რესპუბლიკა",
+      "common": "აზერბაიჯანი"
+    },
+    "kaz": {
+      "official": "Әзірбайжан Республикасы",
+      "common": "Әзірбайжан"
+    },
+    "kir": {
+      "official": "Азербайжан Республикасы",
+      "common": "Азербайжан"
+    },
+    "msa": {
+      "official": "Republik Azerbaijan",
+      "common": "Azerbaijan"
+    },
+    "por": {
+      "official": "República do Azerbaijão",
+      "common": "Azerbaijão"
+    },
+    "rus": {
+      "official": "Азербайджанская Республика",
+      "common": "Азербайджан"
+    },
+    "spa": {
+      "official": "República de Azerbaiyán",
+      "common": "Azerbaiyán"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Озарбойҷон",
+      "common": "Озарбойҷон"
+    },
+    "uzb": {
+      "official": "Ozarbayjon Respublikasi",
+      "common": "Ozarbayjon"
+    },
+    "ukr": {
+      "official": "Азербайджанська Республіка",
+      "common": "Азербайджан"
+    }
+  },
+  "latlng": [40.5, 47.5],
+  "landlocked": true,
+  "borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
+  "area": 86600,
+  "population": 10373977,
+  "flag": "🇦🇿",
+  "callingCodes": ["+994"]
+}

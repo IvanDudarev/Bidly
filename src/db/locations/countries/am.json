@@ -1,0 +1,533 @@
+{
+  "name": {
+    "common": "Armenia",
+    "official": "Republic of Armenia",
+    "native": {
+      "hye": {
+        "official": "Հայաստանի Հանրապետություն",
+        "common": "Հայաստան"
+      }
+    }
+  },
+  "tld": [".am"],
+  "cca2": "AM",
+  "ccn3": "051",
+  "cca3": "ARM",
+  "cioc": "ARM",
+  "independent": true,
+  "currencies": {
+    "AMD": {
+      "name": "Armenian dram",
+      "symbol": "֏"
+    }
+  },
+  "idd": {
+    "root": "+3",
+    "suffixes": ["74"]
+  },
+  "capital": ["Yerevan"],
+  "altSpellings": [
+    "AM",
+    "Hayastan",
+    "Republic of Armenia",
+    "Հայաստանի Հանրապետություն"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "hye": "Armenian"
+  },
+  "translations": {
+    "aze": {
+      "official": "Ermənistan Respublikası",
+      "common": "Ermənistan"
+    },
+    "bel": {
+      "official": "Рэспубліка Арменія",
+      "common": "Арменія"
+    },
+    "eng": {
+      "official": "Republic of Armenia",
+      "common": "Armenia"
+    },
+    "hye": {
+      "official": "Հայաստանի Հանրապետություն",
+      "common": "Հայաստան"
+    },
+    "hin": {
+      "official": "आर्मेनिया गणराज्य",
+      "common": "आर्मेनिया"
+    },
+    "ind": {
+      "official": "Republik Armenia",
+      "common": "Armenia"
+    },
+    "kat": {
+      "official": "სომხეთის რესპუბლიკა",
+      "common": "სომხეთი"
+    },
+    "kaz": {
+      "official": "Армения Республикасы",
+      "common": "Армения"
+    },
+    "kir": {
+      "official": "Армения Республикасы",
+      "common": "Армения"
+    },
+    "msa": {
+      "official": "Republik Armenia",
+      "common": "Armenia"
+    },
+    "por": {
+      "official": "República da Armênia",
+      "common": "Armênia"
+    },
+    "rus": {
+      "official": "Республика Армения",
+      "common": "Армения"
+    },
+    "spa": {
+      "official": "República de Armenia",
+      "common": "Armenia"
+    },
+    "tgk": {
+      "official": "Ҷумҳурии Арманистон",
+      "common": "Арманистон"
+    },
+    "uzb": {
+      "official": "Armaniston Respublikasi",
+      "common": "Armaniston"
+    },
+    "ukr": {
+      "official": "Республіка Вірменія",
+      "common": "Вірменія"
+    }
+  },
+  "latlng": [40, 45],
+  "landlocked": true,
+  "borders": ["AZE", "GEO", "IRN", "TUR"],
+  "area": 29743,
+  "population": 2960672,
+  "flag": "🇦🇲",
+  "callingCodes": ["+374"],
+  "cities": [
+    {
+      "name": "Yerevan",
+      "population": 1093485,
+      "translations": {
+        "aze": "İrəvan",
+        "bel": "Ерэван",
+        "eng": "Yerevan",
+        "hye": "Երևան",
+        "hin": "येरेवान",
+        "ind": "Yerevan",
+        "kat": "ერევანი",
+        "kaz": "Ереван",
+        "kir": "Ереван",
+        "msa": "Yerevan",
+        "por": "Erevan",
+        "rus": "Ереван",
+        "spa": "Ereván",
+        "tgk": "Ереван",
+        "uzb": "Yerevan",
+        "ukr": "Єреван"
+      }
+    },
+    {
+      "name": "Gyumri",
+      "population": 148381,
+      "translations": {
+        "aze": "Gümrü",
+        "bel": "Гюмры",
+        "eng": "Gyumri",
+        "hye": "Գյումրի",
+        "hin": "ग्युमरी",
+        "ind": "Gyumri",
+        "kat": "გიუმრი",
+        "kaz": "Гюмри",
+        "kir": "Гюмри",
+        "msa": "Gyumri",
+        "por": "Gyumri",
+        "rus": "Гюмри",
+        "spa": "Gyumri",
+        "tgk": "Гюмри",
+        "uzb": "Gyumri",
+        "ukr": "Гюмрі"
+      }
+    },
+    {
+      "name": "Vanadzor",
+      "population": 101098,
+      "translations": {
+        "aze": "Vanadzor",
+        "bel": "Ванадзор",
+        "eng": "Vanadzor",
+        "hye": "Վանաձոր",
+        "hin": "वानाडज़ोर",
+        "ind": "Vanadzor",
+        "kat": "ვანაძორი",
+        "kaz": "Ванадзор",
+        "kir": "Ванадзор",
+        "msa": "Vanadzor",
+        "por": "Vanadzor",
+        "rus": "Ванадзор",
+        "spa": "Vanadzor",
+        "tgk": "Ванадзор",
+        "uzb": "Vanadzor",
+        "ukr": "Ванадзор"
+      }
+    },
+    {
+      "name": "Vagharshapat",
+      "population": 46200,
+      "translations": {
+        "aze": "Vaqarşapat",
+        "bel": "Вагаршапат",
+        "eng": "Vagharshapat",
+        "hye": "Վաղարշապատ",
+        "hin": "वघारशापत",
+        "ind": "Vagharshapat",
+        "kat": "ვაღარშაპატი",
+        "kaz": "Вагаршапат",
+        "kir": "Вагаршапат",
+        "msa": "Vagharshapat",
+        "por": "Vagharshapat",
+        "rus": "Вагаршапат",
+        "spa": "Vagharshapat",
+        "tgk": "Вагаршапат",
+        "uzb": "Vagharshapat",
+        "ukr": "Вагаршапат"
+      }
+    },
+    {
+      "name": "Hrazdan",
+      "population": 40795,
+      "translations": {
+        "aze": "Hrazdan",
+        "bel": "Раздан",
+        "eng": "Hrazdan",
+        "hye": "Հրազդան",
+        "hin": "ह्रज़्दान",
+        "ind": "Hrazdan",
+        "kat": "ჰრაზდანი",
+        "kaz": "Раздан",
+        "kir": "Раздан",
+        "msa": "Hrazdan",
+        "por": "Hrazdan",
+        "rus": "Раздан",
+        "spa": "Hrazdan",
+        "tgk": "Раздан",
+        "uzb": "Hrazdan",
+        "ukr": "Раздан"
+      }
+    },
+    {
+      "name": "Abovyan",
+      "population": 35673,
+      "translations": {
+        "aze": "Abovyan",
+        "bel": "Абовян",
+        "eng": "Abovyan",
+        "hye": "Աբովյան",
+        "hin": "अबोव्यान",
+        "ind": "Abovyan",
+        "kat": "აბოვიანი",
+        "kaz": "Абовян",
+        "kir": "Абовян",
+        "msa": "Abovyan",
+        "por": "Abovyan",
+        "rus": "Абовян",
+        "spa": "Abovyan",
+        "tgk": "Абовян",
+        "uzb": "Abovyan",
+        "ukr": "Абовян"
+      }
+    },
+    {
+      "name": "Kapan",
+      "population": 33160,
+      "translations": {
+        "aze": "Kapan",
+        "bel": "Капан",
+        "eng": "Kapan",
+        "hye": "Կապան",
+        "hin": "कापान",
+        "ind": "Kapan",
+        "kat": "კაპანი",
+        "kaz": "Капан",
+        "kir": "Капан",
+        "msa": "Kapan",
+        "por": "Kapan",
+        "rus": "Капан",
+        "spa": "Kapan",
+        "tgk": "Капан",
+        "uzb": "Kapan",
+        "ukr": "Капан"
+      }
+    },
+    {
+      "name": "Ararat",
+      "population": 28832,
+      "translations": {
+        "aze": "Ararat",
+        "bel": "Арарат",
+        "eng": "Ararat",
+        "hye": "Արարատ",
+        "hin": "अरारत",
+        "ind": "Ararat",
+        "kat": "არარატი",
+        "kaz": "Арарат",
+        "kir": "Арарат",
+        "msa": "Ararat",
+        "por": "Ararat",
+        "rus": "Арарат",
+        "spa": "Ararat",
+        "tgk": "Арарат",
+        "uzb": "Ararat",
+        "ukr": "Арарат"
+      }
+    },
+    {
+      "name": "Armavir",
+      "population": 25963,
+      "translations": {
+        "aze": "Armavir",
+        "bel": "Армавір",
+        "eng": "Armavir",
+        "hye": "Արմավիր",
+        "hin": "अर्मावीर",
+        "ind": "Armavir",
+        "kat": "არმავირი",
+        "kaz": "Армавир",
+        "kir": "Армавир",
+        "msa": "Armavir",
+        "por": "Armavir",
+        "rus": "Армавир",
+        "spa": "Armavir",
+        "tgk": "Армавир",
+        "uzb": "Armavir",
+        "ukr": "Армавір"
+      }
+    },
+    {
+      "name": "Stepanavan",
+      "population": 23782,
+      "translations": {
+        "aze": "Stepanavan",
+        "bel": "Степанаван",
+        "eng": "Stepanavan",
+        "hye": "Ստեփանավան",
+        "hin": "स्टेपानावन",
+        "ind": "Stepanavan",
+        "kat": "სტეფანავანი",
+        "kaz": "Степанаван",
+        "kir": "Степанаван",
+        "msa": "Stepanavan",
+        "por": "Stepanavan",
+        "rus": "Степанаван",
+        "spa": "Stepanavan",
+        "tgk": "Степанаван",
+        "uzb": "Stepanavan",
+        "ukr": "Степанаван"
+      }
+    },
+    {
+      "name": "Gavar",
+      "population": 21680,
+      "translations": {
+        "aze": "Gavar",
+        "bel": "Гавар",
+        "eng": "Gavar",
+        "hye": "Գավառ",
+        "hin": "गावर",
+        "ind": "Gavar",
+        "kat": "გავარი",
+        "kaz": "Гавар",
+        "kir": "Гавар",
+        "msa": "Gavar",
+        "por": "Gavar",
+        "rus": "Гавар",
+        "spa": "Gavar",
+        "tgk": "Гавар",
+        "uzb": "Gavar",
+        "ukr": "Гавар"
+      }
+    },
+    {
+      "name": "Artashat",
+      "population": 20562,
+      "translations": {
+        "aze": "Artaşat",
+        "bel": "Арташат",
+        "eng": "Artashat",
+        "hye": "Արտաշատ",
+        "hin": "आर्तशत",
+        "ind": "Artashat",
+        "kat": "არტაშატი",
+        "kaz": "Арташат",
+        "kir": "Арташат",
+        "msa": "Artashat",
+        "por": "Artashat",
+        "rus": "Арташат",
+        "spa": "Artashat",
+        "tgk": "Арташат",
+        "uzb": "Artashat",
+        "ukr": "Арташат"
+      }
+    },
+    {
+      "name": "Goris",
+      "population": 20379,
+      "translations": {
+        "aze": "Qoris",
+        "bel": "Горыс",
+        "eng": "Goris",
+        "hye": "Գորիս",
+        "hin": "गोरिस",
+        "ind": "Goris",
+        "kat": "გორისი",
+        "kaz": "Горис",
+        "kir": "Горис",
+        "msa": "Goris",
+        "por": "Goris",
+        "rus": "Горис",
+        "spa": "Goris",
+        "tgk": "Горис",
+        "uzb": "Goris",
+        "ukr": "Горис"
+      }
+    },
+    {
+      "name": "Masis",
+      "population": 18911,
+      "translations": {
+        "aze": "Masis",
+        "bel": "Масіс",
+        "eng": "Masis",
+        "hye": "Մասիս",
+        "hin": "मसिस",
+        "ind": "Masis",
+        "kat": "მასისი",
+        "kaz": "Масіс",
+        "kir": "Масіс",
+        "msa": "Masis",
+        "por": "Masis",
+        "rus": "Масіс",
+        "spa": "Masis",
+        "tgk": "Масіс",
+        "uzb": "Masis",
+        "ukr": "Масіс"
+      }
+    },
+    {
+      "name": "Ashtarak",
+      "population": 18779,
+      "translations": {
+        "aze": "Aştarak",
+        "bel": "Аштарак",
+        "eng": "Ashtarak",
+        "hye": "Աշտարակ",
+        "hin": "अश्तारक",
+        "ind": "Ashtarak",
+        "kat": "აშტარაკი",
+        "kaz": "Аштарак",
+        "kir": "Аштарак",
+        "msa": "Ashtarak",
+        "por": "Ashtarak",
+        "rus": "Аштарак",
+        "spa": "Ashtarak",
+        "tgk": "Аштарак",
+        "uzb": "Ashtarak",
+        "ukr": "Аштарак"
+      }
+    },
+    {
+      "name": "Ch'arents'avan",
+      "population": 18500,
+      "translations": {
+        "aze": "Çarentsavan",
+        "bel": "Чарэнцаван",
+        "eng": "Ch'arents'avan",
+        "hye": "Չարենցավան",
+        "hin": "चारेंट्सावन",
+        "ind": "Ch'arents'avan",
+        "kat": "ჩარენცავანი",
+        "kaz": "Чаренцаван",
+        "kir": "Чаренцаван",
+        "msa": "Ch'arents'avan",
+        "por": "Ch'arents'avan",
+        "rus": "Чаренцаван",
+        "spa": "Ch'arents'avan",
+        "tgk": "Чаренцаван",
+        "uzb": "Ch'arents'avan",
+        "ukr": "Чаренцаван"
+      }
+    },
+    {
+      "name": "Sevan",
+      "population": 17083,
+      "translations": {
+        "aze": "Sevan",
+        "bel": "Сева́н",
+        "eng": "Sevan",
+        "hye": "Սևան",
+        "hin": "सेवान",
+        "ind": "Sevan",
+        "kat": "სევანი",
+        "kaz": "Севан",
+        "kir": "Севан",
+        "msa": "Sevan",
+        "por": "Sevan",
+        "rus": "Севан",
+        "spa": "Sevan",
+        "tgk": "Севан",
+        "uzb": "Sevan",
+        "ukr": "Севан"
+      }
+    },
+    {
+      "name": "Hats'avan",
+      "population": 15208,
+      "translations": {
+        "aze": "Hatsavan",
+        "bel": "Хацаван",
+        "eng": "Hats'avan",
+        "hye": "Հացավան",
+        "hin": "हैट्सावन",
+        "ind": "Hats'avan",
+        "kat": "ჰაცავანი",
+        "kaz": "Хацаван",
+        "kir": "Хацаван",
+        "msa": "Hats'avan",
+        "por": "Hats'avan",
+        "rus": "Хацаван",
+        "spa": "Hats'avan",
+        "tgk": "Хацаван",
+        "uzb": "Hats'avan",
+        "ukr": "Хацаван"
+      }
+    },
+    {
+      "name": "Spitak",
+      "population": 15059,
+      "translations": {
+        "aze": "Spitak",
+        "bel": "Спітак",
+        "eng": "Spitak",
+        "hye": "Սպիտակ",
+        "hin": "स्पिटक",
+        "ind": "Spitak",
+        "kat": "სპიტაკი",
+        "kaz": "Спитак",
+        "kir": "Спитак",
+        "msa": "Spitak",
+        "por": "Spitak",
+        "rus": "Спитак",
+        "spa": "Spitak",
+        "tgk": "Спитак",
+        "uzb": "Spitak",
+        "ukr": "Спітак"
+      }
+    }
+  ]
+}
